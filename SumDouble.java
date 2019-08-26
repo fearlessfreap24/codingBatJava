@@ -1,3 +1,5 @@
+// Given two int values, return their sum. Unless the two values are the same, then return double their sum.
+
 public class SumDouble {
 
     public static void main(String[] args){
