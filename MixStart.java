@@ -9,7 +9,7 @@ public class MixStart {
 
 	private void init() {
 		// array to hold inputs
-		String[] ins = { "mix snacks", "pix snacks", "piz snacks" };
+		String[] ins = { "mix snacks", "pix snacks", "piz snacks", "nix", "ni", "n", "" };
 		// for each format
 		for (String i: ins) {
 			System.out.println(String.format("str \"%s\" : %b", i, mixStart(i)));
